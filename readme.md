@@ -1,5 +1,8 @@
 # DISCORDでのTRPG用DICE_BOT
 
+## 初回
+`pip install -r requirements.txt`
+
 ## 実行
 `python dice.py`
 
